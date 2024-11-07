@@ -33,7 +33,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## Usage
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/saivarshith123/Water-Quality.git
+git clone https://github.com/saivarshith123/water-potability-prediction.git
 ```
 2. **Navigate to the project directory:**
 ```bash
